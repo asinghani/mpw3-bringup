@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MicroMod-Sparkfun")(type "KiCad")(uri "${KIPRJMOD}/parts/MicroMod-Sparkfun/MicroMod-Sparkfun.kicad_sym")(options "")(descr ""))
+  (lib (name "TPL0102-100QPWREP")(type "KiCad")(uri "${KIPRJMOD}/parts/TPL0102/TPL0102-100QPWREP.kicad_sym")(options "")(descr ""))
+  (lib (name "DS1077LU-50")(type "KiCad")(uri "${KIPRJMOD}/parts/DS1077LU-50/DS1077LU-50.kicad_sym")(options "")(descr ""))
+)

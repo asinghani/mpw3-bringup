@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SN74LVC32ADR")(type "KiCad")(uri "${KIPRJMOD}/parts/SN74LVC32ADR")(options "")(descr ""))
+)
